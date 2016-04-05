@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Arron Gibson]]></title>
+        <description><![CDATA[Arron Gibson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 17:24:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Wondering how this all works.  I know that this is not a lot to go on but it's what I am giving the bots now.</p>]]></description>
+            <link>undefinedceebd309-a241-48c7-aaca-e4535bf4cde2/index.html</link>
+            <guid isPermaLink="false">ceebd309-a241-48c7-aaca-e4535bf4cde2</guid>
+            <pubDate>Tue, 05 Apr 2016 17:24:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
